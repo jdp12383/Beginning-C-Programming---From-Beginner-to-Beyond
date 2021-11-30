@@ -1,0 +1,12 @@
+_TIME_H	/usr/include/time.h	/^#define _TIME_H	1$/;"	macro	line:23
+__need_size_t	/usr/include/time.h	/^#define __need_size_t$/;"	macro	line:27
+__need_NULL	/usr/include/time.h	/^#define __need_NULL$/;"	macro	line:28
+pid_t	/usr/include/time.h	/^typedef __pid_t pid_t; $/;"	typedef	line:54
+__pid_t_defined	/usr/include/time.h	/^#  define __pid_t_defined$/;"	macro	line:55
+TIME_UTC	/usr/include/time.h	/^# define TIME_UTC 1$/;"	macro	line:65
+__isleap	/usr/include/time.h	/^#define __isleap(year)	\\$/;"	macro	line:181
+nanosleep	/usr/include/time.h	/^extern int nanosleep (const struct timespec *__requested_time,$/;"	prototype	line:205	signature:(const struct timespec *__requested_time, struct timespec *__remaining)	returns:int 
+clock_nanosleep	/usr/include/time.h	/^extern int clock_nanosleep (clockid_t __clock_id, int __flags,$/;"	prototype	line:224	signature:(clockid_t __clock_id, int __flags, const struct timespec *__req, struct timespec *__rem)	returns:int 
+__THROW	/usr/include/time.h	/^     __THROW __nonnull ((1));$/;"	prototype	line:258	signature:(1)
+getdate	/usr/include/time.h	/^extern struct tm *getdate (const char *__string);$/;"	prototype	line:283	signature:(const char *__string)	returns:struct tm 
+getdate_r	/usr/include/time.h	/^extern int getdate_r (const char *__restrict __string,$/;"	prototype	line:297	signature:(const char *__restrict __string, struct tm *__restrict __resbufp)	returns:int 

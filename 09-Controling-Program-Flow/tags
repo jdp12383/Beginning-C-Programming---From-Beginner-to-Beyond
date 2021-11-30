@@ -1,0 +1,21 @@
+_STDARG_H	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _STDARG_H$/;"	macro	line:31
+_ANSI_STDARG_H_	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _ANSI_STDARG_H_$/;"	macro	line:32
+__need___va_list	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#undef __need___va_list$/;"	macro	line:34
+__GNUC_VA_LIST	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define __GNUC_VA_LIST$/;"	macro	line:39
+__gnuc_va_list	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^typedef __builtin_va_list __gnuc_va_list; $/;"	typedef	line:40
+va_start	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define va_start(v,l)	__builtin_va_start(v,l)$/;"	macro	line:47
+va_end	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define va_end(v)	__builtin_va_end(v)$/;"	macro	line:48
+va_arg	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define va_arg(v,l)	__builtin_va_arg(v,l)$/;"	macro	line:49
+va_copy	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define va_copy(d,s)	__builtin_va_copy(d,s)$/;"	macro	line:52
+__va_copy	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define __va_copy(d,s)	__builtin_va_copy(d,s)$/;"	macro	line:54
+_BSD_VA_LIST	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#undef _BSD_VA_LIST$/;"	macro	line:64
+_VA_LIST_	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST_$/;"	macro	line:73
+_VA_LIST	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST va_list$/;"	macro	line:76
+va_list	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^typedef __gnuc_va_list va_list; $/;"	typedef	line:79
+__VA_LIST	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define __VA_LIST$/;"	macro	line:81
+va_list	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^typedef __gnuc_va_list va_list; $/;"	typedef	line:99
+_VA_LIST_	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST_$/;"	macro	line:105
+_VA_LIST	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST$/;"	macro	line:108
+_VA_LIST_DEFINED	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST_DEFINED$/;"	macro	line:111
+_VA_LIST_T_H	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define _VA_LIST_T_H$/;"	macro	line:114
+__va_list__	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/^#define __va_list__$/;"	macro	line:117

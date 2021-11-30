@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sandbox" Database="" Version="10000">
+  <Project Name="casting" Path="casting/casting.project" Active="Yes"/>
+  <Project Name="producer_consumer_v2" Path="producer_consumer_v2/producer_consumer_v2.project" Active="No"/>
+  <Project Name="mutex_producer_consumer" Path="producer_consumer_v1/mutex_producer_consumer.project" Active="No"/>
+  <Project Name="producer_consumer_v1" Path="producer_consumer_v1/producer_consumer_v1.project" Active="No"/>
+  <Project Name="producer_consumer_via_classes" Path="producer_consumer_via_classes/producer_consumer_via_classes.project" Active="No"/>
+  <Project Name="function_const" Path="function_const/function_const.project" Active="No"/>
+  <Project Name="enum_scoped_strong" Path="enum_scoped_strong/enum_scoped_strong.project" Active="No"/>
+  <Project Name="enum_unscoped_standard" Path="enum_unscoped_standard/enum_unscoped_standard.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="casting" ConfigName="Debug"/>
+      <Project Name="casting" ConfigName="Debug"/>
+      <Project Name="producer_consumer_v2" ConfigName="Debug"/>
+      <Project Name="producer_consumer_v1" ConfigName="Debug"/>
+      <Project Name="producer_consumer_v1" ConfigName="Debug"/>
+      <Project Name="producer_consumer_via_classes" ConfigName="Debug"/>
+      <Project Name="function_const" ConfigName="Debug"/>
+      <Project Name="enum_scoped_strong" ConfigName="Debug"/>
+      <Project Name="enum_unscoped_standard" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="casting" ConfigName="Release"/>
+      <Project Name="casting" ConfigName="Release"/>
+      <Project Name="producer_consumer_v2" ConfigName="Release"/>
+      <Project Name="producer_consumer_v1" ConfigName="Release"/>
+      <Project Name="producer_consumer_v1" ConfigName="Release"/>
+      <Project Name="producer_consumer_via_classes" ConfigName="Release"/>
+      <Project Name="function_const" ConfigName="Release"/>
+      <Project Name="enum_scoped_strong" ConfigName="Release"/>
+      <Project Name="enum_unscoped_standard" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

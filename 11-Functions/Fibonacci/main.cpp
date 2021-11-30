@@ -3,12 +3,7 @@
 #include <iostream>
 
 using namespace std;
-// Section 11
-// Recursion - Fibonacci
 
-#include <iostream>
-
-using namespace std;
 unsigned long long fibonacci(unsigned long long n);
 
 unsigned long long fibonacci(unsigned long long n) {
